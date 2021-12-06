@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background:linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("../img/WhatsApp Image 2021-12-04 at 6.31.51 AM (1).jpeg") top right no-repeat;
+  background:linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("../img/WhatsApp Image 2021-12-04 at 6.31.51 AM (1).jpeg") top center no-repeat;
 
   /* background: #040404 url("../img/WhatsApp Image 2021-12-04 at 6.31.51 AM (1).jpeg") top right no-repeat; */
   background-size: cover;
